@@ -8,6 +8,7 @@
 # comments
 # here
 
+print("test")
 
 
 # This is your second lab section. It will primarily be based on the Introducing Lists lecture, reference it if you need
